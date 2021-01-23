@@ -1,0 +1,7 @@
+sleep=20000
+key=4
+sleep=4000
+key=E
+sleep=2000
+key=9
+sleep=20000

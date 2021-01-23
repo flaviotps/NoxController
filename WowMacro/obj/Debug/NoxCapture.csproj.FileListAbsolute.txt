@@ -1,0 +1,10 @@
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\bin\Debug\NoxController.exe.config
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\bin\Debug\NoxController.exe
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\bin\Debug\NoxController.pdb
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\obj\Debug\NoxCapture.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\obj\Debug\WowMacro.Form1.resources
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\obj\Debug\NoxController.Properties.Resources.resources
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\obj\Debug\NoxCapture.csproj.GenerateResource.cache
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\obj\Debug\NoxCapture.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\obj\Debug\NoxController.exe
+C:\Users\PICHAU\source\repos\WowMacro\WowMacro\obj\Debug\NoxController.pdb
