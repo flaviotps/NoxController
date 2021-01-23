@@ -49,7 +49,7 @@ namespace WowMacro
                     {
                         var sc = new ScreenCapturer();
                         var bitmap = sc.GetScreenshot(wowWindow.process.MainWindowHandle);
-                        sc.WriteBitmapToFile("C:\\Users\\PICHAU\\Nox_share\\ImageShare\\Screenshots\\" + wowWindow.name+".png", bitmap);
+                        sc.WriteBitmapToFile("C:\\Users\\Flavio\\Nox_share\\ImageShare\\Screenshots\\" + wowWindow.name+".png", bitmap);
                         Thread.Sleep(interval);
                     }
                     else
